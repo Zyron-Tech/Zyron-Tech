@@ -1,4 +1,4 @@
-# 👋 Hi — I'm Peace Mathew (Zyrontic)
+# 👋 Hi — I'm Peace Mathew (Zyrontech)
 
 [![Website](https://img.shields.io/website?url=https://www.peacemathew.com.ng)](https://www.peacemathew.com.ng) [![Email](https://img.shields.io/badge/Email-zyrontech101%40gmail.com-red?logo=gmail&logoColor=white)](mailto:zyrontech101@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Peace%20Mathew-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathew-peace/) [![X](https://img.shields.io/badge/X-@Entheos_11-1DA1F2?logo=twitter&logoColor=white)](https://x.com/Entheos_11)
 
