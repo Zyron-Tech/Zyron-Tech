@@ -142,3 +142,255 @@ const peaceMathew = {
 </div>
 
 ### **Authentication & OAuth**
+<div align="center">
+
+![Google OAuth](https://img.shields.io/badge/Google_OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Facebook](https://img.shields.io/badge/Facebook_Login-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
+![GitHub OAuth](https://img.shields.io/badge/GitHub_OAuth-181717?style=for-the-badge&logo=github&logoColor=white)
+![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+</div>
+
+### **Analytics & Monitoring**
+<div align="center">
+
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Mixpanel](https://img.shields.io/badge/Mixpanel-7856FF?style=for-the-badge&logo=mixpanel&logoColor=white)
+![Amplitude](https://img.shields.io/badge/Amplitude-011689?style=for-the-badge&logo=amplitude&logoColor=white)
+![Hotjar](https://img.shields.io/badge/Hotjar-FF3C00?style=for-the-badge&logo=hotjar&logoColor=white)
+
+</div>
+
+### **AI & Machine Learning APIs**
+<div align="center">
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic_Claude-CC9B7A?style=for-the-badge&logo=anthropic&logoColor=black)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Cohere](https://img.shields.io/badge/Cohere-39594D?style=for-the-badge&logo=cohere&logoColor=white)
+
+</div>
+
+### **Social Media & Content**
+<div align="center">
+
+![Twitter API](https://img.shields.io/badge/Twitter_API-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram_API-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![YouTube](https://img.shields.io/badge/YouTube_API-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+![LinkedIn API](https://img.shields.io/badge/LinkedIn_API-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+
+</div>
+
+---
+
+## ⭐ Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 Virallink
+**AI-Powered Social Media Automation**
+
+Built with Laravel, Tailwind CSS & OpenAI integration. Features automated tweet generation, thread creation, and scheduled posting with analytics dashboard.
+
+**Tech:** Laravel • Tailwind • OpenAI API • MySQL
+
+[![Repo](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/Zyron-Tech)
+
+</td>
+<td width="50%">
+
+### 📚 Skybil EdTech
+**Learning Management Platform**
+
+Co-founded and architected backend infrastructure. Implemented course management, payment processing, and real-time notifications.
+
+**Tech:** Laravel • PostgreSQL • Paystack • WebSockets
+
+[![Repo](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/Zyron-Tech)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 💹 Zyront Finance
+**Trading Analytics Platform**
+
+Founded and built web-first trading platform with real-time market data, portfolio tracking, and automated trading signals.
+
+**Tech:** Laravel • React • MySQL • TradingView
+
+[![Repo](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/Zyron-Tech)
+
+</td>
+<td width="50%">
+
+### 🔌 WordPress Suite
+**Custom Plugin Ecosystem**
+
+Collection of production-grade WordPress plugins including payment gateways, referral systems, and custom post type managers.
+
+**Tech:** WordPress • PHP • JavaScript • WP REST API
+
+[![Repo](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/Zyron-Tech)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Zyron-Tech&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Zyron-Tech&theme=radical&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=F59E0B&currStreakLabel=3B82F6" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zyron-Tech&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Zyron-Tech&theme=react-dark&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF" alt="Contribution Graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Zyron-Tech&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 🎯 What I Do Best
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏗️ Backend Architecture
+- RESTful API design & implementation
+- Microservices architecture
+- Database optimization & scaling
+- Caching strategies (Redis)
+- Queue management & job processing
+
+</td>
+<td width="50%">
+
+### 🔧 WordPress Development
+- Custom plugin development
+- Theme customization
+- WooCommerce extensions
+- Payment gateway integrations
+- Performance optimization
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🤖 Automation & ML
+- Data pipeline orchestration
+- Predictive modeling
+- Natural language processing
+- Computer vision applications
+- Model deployment & serving
+
+</td>
+<td width="50%">
+
+### 🚀 DevOps & Deployment
+- CI/CD pipeline setup
+- Docker containerization
+- Cloud infrastructure (AWS/GCP)
+- Server management & monitoring
+- Security best practices
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧭 Development Philosophy
+
+```php
+<?php
+
+class Developer extends PeaceMathew {
+    
+    public function approach(): array
+    {
+        return [
+            'mindset' => 'Problem-first thinking',
+            'code_quality' => 'Clean, maintainable, well-documented',
+            'delivery' => 'Iterative with continuous feedback',
+            'testing' => 'TDD when it matters',
+            'architecture' => 'Modular and scalable',
+            'devops' => 'Automated and observable'
+        ];
+    }
+    
+    public function principles(): array
+    {
+        return [
+            '✅ Write code humans can read',
+            '✅ Test early, deploy often',
+            '✅ Document like you won\'t remember',
+            '✅ Optimize when needed, not before',
+            '✅ Learn continuously, share generously'
+        ];
+    }
+}
+```
+
+---
+
+## 🤝 Open For Collaboration
+
+<div align="center">
+
+### I'm interested in:
+
+🔹 **Full-time/Contract Roles:** Backend Engineer, WordPress Developer, ML Engineer  
+🔹 **Freelance Projects:** Custom WordPress plugins, Laravel applications, API integrations  
+🔹 **Open Source:** WordPress tools, PHP libraries, ML deployment frameworks  
+🔹 **Consulting:** Architecture reviews, performance optimization, technical mentorship  
+
+</div>
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+### Get in touch — I'd love to hear from you!
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Website-3B82F6?style=for-the-badge)](https://www.peacemathew.com.ng)
+[![Email](https://img.shields.io/badge/📧_Email-Send_Message-EA4335?style=for-the-badge)](mailto:zyrontech101@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/mathew-peace/)
+[![X](https://img.shields.io/badge/𝕏_Twitter-Follow-000000?style=for-the-badge)](https://x.com/Entheos_11)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/message)
+
+### 💡 Quick Pitch for Recruiters
+
+> **Backend Engineer specialized in PHP (Laravel) and WordPress plugin development, with strong Python capabilities for automation and machine learning.** I deliver production-ready systems with seamless third-party integrations (payments, messaging, analytics) that solve real business problems. Experienced in building scalable architectures from concept to deployment.
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontAlignY=65&animation=twinkling" width="100%"/>
+
+**⭐ If you find my work interesting, consider starring my repositories!**
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</div>
