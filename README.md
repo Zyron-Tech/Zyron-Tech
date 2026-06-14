@@ -4,10 +4,10 @@
 
 # Peace Mathew
 
-### Full-Stack Engineer
+### I turn ambiguous problems into working software.
 
-Building production-grade web, mobile, and backend systems —
-from architecture to deployment.
+Full-stack engineer specializing in web, mobile, and backend systems —
+the kind of person you bring in when "it should just work" turns out to be the hard part.
 
 <br>
 
@@ -19,11 +19,20 @@ from architecture to deployment.
 
 ---
 
-### Profile
+### How I work
 
-Lagos-based full-stack developer with a focus on shipping reliable, maintainable software end-to-end. I've co-founded two startups — an EdTech platform and a fintech analytics tool — handling everything from system architecture to production deployment.
+Most of my best work didn't start as a clean spec — it started as a vague problem, a broken system, or a startup idea that needed someone to figure out the *how*. I've spent the last several years on that side of the table: untangling architecture decisions, building things that have to survive contact with real users, and shipping when "later" wasn't an option.
 
-My work spans web applications, cross-platform mobile apps, and custom WordPress infrastructure, with a growing emphasis on integrating AI into practical, revenue-generating products.
+I've co-founded two startups (an EdTech platform and a fintech analytics tool), which means I've debugged production issues at 2am, made the call on what to cut to hit a deadline, and lived with the consequences of my own architecture choices. That changes how you build.
+
+---
+
+### What I'm good at
+
+- **Untangling messy systems** — legacy code, undocumented APIs, half-finished features. I read the room before I write code.
+- **Picking the right tool, not the trendy one** — Laravel for a content-heavy app, FastAPI for a lightweight service, React Native when a PWA won't cut it.
+- **Owning outcomes, not tickets** — if the payment flow breaks at 11pm, that's still my problem.
+- **Talking to non-technical stakeholders** — translating "the app feels slow" into an actual diagnosis and fix.
 
 ---
 
@@ -41,22 +50,22 @@ My work spans web applications, cross-platform mobile apps, and custom WordPress
 
 ---
 
-### Selected Work
+### Selected work
 
 **Skybil** — Co-founder & lead engineer
-Learning management platform handling course delivery, video streaming, and payments at scale.
+The brief was "we need an LMS that doesn't fall over during live cohorts." Built the backend for course delivery, video streaming, and payments — and kept it running.
 `Laravel` `React` `PostgreSQL` `AWS`
 
 **Zyront Finance** — Founder
-Trading and analytics platform with real-time market data and automated signal generation.
+Built a trading and analytics platform from scratch, including real-time market data pipelines and automated signal generation — the kind of project where the data being wrong by even a second matters.
 `Laravel` `Vue.js` `MySQL` `Redis`
 
 **Virallink** — Independent build
-AI-driven content generation and scheduling tool for social media management.
+A content team's workflow problem ("we can't keep up with posting") turned into an AI-driven generation and scheduling tool.
 `Laravel` `React` `OpenAI`
 
 **WordPress Plugin Suite** — Independent build
-Production plugins covering payments, bookings, and referral systems, used across multiple commercial sites.
+A collection of production plugins (payments, bookings, referrals) built because off-the-shelf options didn't fit the business logic.
 `PHP` `WordPress` `MySQL`
 
 ---
@@ -72,7 +81,7 @@ Production plugins covering payments, bookings, and referral systems, used acros
 
 ### Currently
 
-Open to senior full-stack and backend roles, select freelance engagements, and technical advisory work. Remote-first, GMT+1, available on short notice.
+Open to senior full-stack and backend roles, select freelance engagements, and technical advisory work. Remote-first, available on short notice.
 
 <div align="center">
 <br>
