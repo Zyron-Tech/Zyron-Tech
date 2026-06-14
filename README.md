@@ -1,83 +1,82 @@
 <div align="center">
 
+<br>
+
 # Peace Mathew
 
-**Full-Stack Developer — Web, Mobile & Backend**
+### Full-Stack Engineer
 
-[Portfolio](https://www.peacemathew.com.ng) · [LinkedIn](https://www.linkedin.com/in/mathew-peace/) · [X (Twitter)](https://x.com/Entheos_11) · [Email](mailto:zyrontech101@gmail.com)
+Building production-grade web, mobile, and backend systems —
+from architecture to deployment.
+
+<br>
+
+[**peacemathew.pro**](https://peacemathew.pro) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/mathew-peace/) &nbsp;·&nbsp; [X](https://x.com/Entheos_11) &nbsp;·&nbsp; [Email](mailto:zyrontech101@gmail.com)
+
+<br>
 
 </div>
 
 ---
 
-## About
+### Profile
 
-I'm a full-stack developer based in Lagos, Nigeria, building web applications, mobile apps, and custom WordPress solutions. I work across the stack — from designing APIs and databases to shipping polished frontend experiences — and I'm comfortable owning a project from idea through to production.
+Lagos-based full-stack developer with a focus on shipping reliable, maintainable software end-to-end. I've co-founded two startups — an EdTech platform and a fintech analytics tool — handling everything from system architecture to production deployment.
 
-Currently focused on building scalable products with React, Laravel, and Python, with growing experience integrating AI tools into real workflows.
-
----
-
-## Tech Stack
-
-**Frontend**
-React · Next.js · Vue.js · TypeScript · Tailwind CSS
-
-**Backend**
-PHP (Laravel) · Python (Django, FastAPI) · Node.js · REST APIs
-
-**Mobile**
-React Native · Flutter · Progressive Web Apps
-
-**Databases & Services**
-MySQL · PostgreSQL · MongoDB · Firebase · Supabase · Redis
-
-**Cloud & DevOps**
-AWS · Docker · DigitalOcean · Vercel · GitHub Actions
-
-**WordPress**
-Custom plugin development · Theme development · WooCommerce
-
-**AI / ML**
-OpenAI API · TensorFlow · PyTorch · Automation pipelines
+My work spans web applications, cross-platform mobile apps, and custom WordPress infrastructure, with a growing emphasis on integrating AI into practical, revenue-generating products.
 
 ---
 
-## Featured Projects
+### Stack
 
-**Virallink** — AI-powered tweet and thread generator with scheduling, analytics, and multi-account management.
-`Laravel` `React` `OpenAI` `Tailwind CSS`
+| | |
+|---|---|
+| **Languages** | TypeScript · PHP · Python · JavaScript |
+| **Frontend** | React · Next.js · Vue.js · Tailwind CSS |
+| **Backend** | Laravel · Django · FastAPI · Node.js |
+| **Mobile** | React Native · Flutter |
+| **Data** | PostgreSQL · MySQL · MongoDB · Redis |
+| **Infrastructure** | AWS · Docker · Firebase · Supabase · Vercel |
+| **AI / Automation** | OpenAI API · TensorFlow · PyTorch |
 
-**Skybil** — Learning management platform built as a co-founder, including course management, video streaming, and payments.
+---
+
+### Selected Work
+
+**Skybil** — Co-founder & lead engineer
+Learning management platform handling course delivery, video streaming, and payments at scale.
 `Laravel` `React` `PostgreSQL` `AWS`
 
-**Zyront Finance** — Trading and analytics platform with real-time market data integration and portfolio tracking.
+**Zyront Finance** — Founder
+Trading and analytics platform with real-time market data and automated signal generation.
 `Laravel` `Vue.js` `MySQL` `Redis`
 
-**WordPress Plugin Suite** — A set of production plugins covering payment gateways, referral systems, bookings, and custom content management.
-`WordPress` `PHP` `JavaScript` `MySQL`
+**Virallink** — Independent build
+AI-driven content generation and scheduling tool for social media management.
+`Laravel` `React` `OpenAI`
+
+**WordPress Plugin Suite** — Independent build
+Production plugins covering payments, bookings, and referral systems, used across multiple commercial sites.
+`PHP` `WordPress` `MySQL`
 
 ---
 
-## GitHub Stats
+### Activity
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Zyron-Tech&show_icons=true&hide_border=true&theme=default&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zyron-Tech&layout=compact&hide_border=true&theme=default&hide=html,css" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Zyron-Tech&show_icons=true&hide_border=true&theme=default&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zyron-Tech&layout=compact&hide_border=true&theme=default&hide=html,css" />
 </div>
 
 ---
 
-## Currently Open To
+### Currently
 
-- Full-time roles: Full-Stack Developer, Backend Engineer, Mobile Developer
-- Freelance & contract work: web/mobile apps, WordPress plugins, API development
-- Collaborations: open source contributions, technical consulting
-
-**Availability:** Remote, flexible hours (GMT+1) · Open to relocation · Available with short notice
-
----
+Open to senior full-stack and backend roles, select freelance engagements, and technical advisory work. Remote-first, GMT+1, available on short notice.
 
 <div align="center">
-<sub>© 2025 Peace Mathew</sub>
+<br>
+
+<sub>peacemathew.pro</sub>
+
 </div>
